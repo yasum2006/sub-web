@@ -290,7 +290,7 @@ export default {
               {
                 label: "ACL4SSR_Online_AdblockPlus 更多去广告(与Github同步)",
                 value:
-                  "https://raw.githubusercontent.com/yasum2006/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
+                  "https://raw.githubusercontent.com/yasum2006/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
               },
               {
                 label: "ACL4SSR_Online_NoAuto 无自动测速(与Github同步)",
