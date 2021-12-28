@@ -285,7 +285,7 @@ export default {
               {
                 label: "ACL4SSR_Online 默认版 分组比较全(与Github同步)",
                 value:
-                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
+                  "https://raw.githubusercontent.com/yasum2006/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
               },
               {
                 label: "ACL4SSR_Online_AdblockPlus 更多去广告(与Github同步)",
@@ -295,12 +295,12 @@ export default {
               {
                 label: "ACL4SSR_Online_NoAuto 无自动测速(与Github同步)",
                 value:
-                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
+                  "https://raw.githubusercontent.com/yasum2006/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
               },
               {
                 label: "ACL4SSR_Online_NoReject 无广告拦截规则(与Github同步)",
                 value:
-                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoReject.ini"
+                  "https://raw.githubusercontent.com/yasum2006/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoReject.ini"
               },
               {
                 label: "ACL4SSR_Online_Mini 精简版(与Github同步)",
