@@ -495,7 +495,7 @@ export default {
         sort: false,
         udp: false,
         tfo: false,
-        scv: false,
+        scv: true,
         expand: true, // 是否将规则全文写进配置文件
         fdn: false,
         appendType: false,
