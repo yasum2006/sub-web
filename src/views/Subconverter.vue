@@ -288,7 +288,7 @@ export default {
                   "https://raw.githubusercontent.com/yasum2006/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
               },
               {
-                label: "ACL4SSR_Online_AdblockPlus 更多去广告(与Github同步)",
+                label: "ACL4SSR_Online_Ding修改适配版(与Github同步)",
                 value:
                   "https://raw.githubusercontent.com/yasum2006/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
               },
