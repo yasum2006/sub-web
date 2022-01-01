@@ -283,7 +283,7 @@ export default {
             label: "ACL4SSR",
             options: [
               {
-                label: "ACL4SSR_Online 默认版 分组比较全(与Github同步)",
+                label: "ACL4SSR_Online_ding修改媒体版(与Github同步)",
                 value:
                   "https://raw.githubusercontent.com/yasum2006/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
               },
